@@ -1,0 +1,13 @@
+build/
+dist/
+Pipfile
+Pipfile.lock
+.mypy_cache/
+.vscode/
+.idea/
+tests/dataset/*.pkl
+tests/sandbox.ipynb
+.DS_Store
+*.pyc
+venv/
+eyefootball.egg-info/
